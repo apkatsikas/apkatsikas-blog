@@ -35,7 +35,7 @@ The result of this need is a Python script and JSON file. I hope this will help 
 
 ### JSON Instructions
 1. modify "number_of_simulators" to your desired count. On my beefy machine, 3 was the max I could pull off.
-2. modify "test_dir" to the expected relative location of your UI tests in your project
+2. modify "tests_dir" to the expected relative location of your UI tests in your project
 3. modiy "directory" to your desired directory where the repo will be cloned/simulators build etc.
 4. modify "clone_statement" to the URL of your git repo
 5. modify "checkout branch" to the branch you want to test against"
@@ -44,3 +44,5 @@ The result of this need is a Python script and JSON file. I hope this will help 
 8. modify occurences of -scheme 'project' and -workspace 'project.workspace' and -destination 'platform=iOS Simulator,name=iPad Air 2,OS=10.2' to your expected values
 9. modify occurence of \"project_iphonesimulator10.2-x86_64.xctestrun\" to your output device name
 10. modify occurence of "--only 'uitests%s' to your test target string
+
+Please don't hesitate to reach out if you have any questions!
