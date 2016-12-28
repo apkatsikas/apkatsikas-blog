@@ -8,7 +8,7 @@ author: "Andrew Katsikas"
 
 # pxctest - distributed, headless runs in Python
 
-I wanted to run Swift/xctests in parallel, in a distributed fashion (AKA sharding). Johannes Plunien and Toshihiro Suzuki have provided an amazing start with pxctest - https://github.com/plu/pxctest
+I wanted to run Swift/xctests in parallel, in a distributed fashion (AKA sharding). Johannes Plunien and Toshihiro Suzuki have provided an amazing start with [pxctest](https://github.com/plu/pxctest) 
 
 However, their frameworks accomodates those who want to run ALL tests against each node (e.g. 10 tests, 10 run on iPad, 10 run on iPhone).
 
