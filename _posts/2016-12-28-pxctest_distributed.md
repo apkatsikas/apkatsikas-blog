@@ -19,7 +19,6 @@ The result of this need is a Python script and JSON file. I hope this will help 
 [My Project - pxctest distributed](https://github.com/apkatsikas/xctest_pxctest_distributed)
 
 ## What it does
-See line 109 of ios_parallel.py
 1. clones your repo
 2. checks out a branch
 3. pod install
