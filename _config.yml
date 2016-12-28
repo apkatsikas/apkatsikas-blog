@@ -5,7 +5,7 @@ location: "Your Region, Country"
 email: your-email@example.com
 baseurl: "/apkatsikas-blog"
 
-url: "http://himsel.me" # replace by your site's url
+url: "https://apkatsikas.github.io" # replace by your site's url
 twitter_username: your-name
 github_username:  lukas-h
 author: "Your Name"
