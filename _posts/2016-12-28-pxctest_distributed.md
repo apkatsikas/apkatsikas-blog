@@ -16,7 +16,7 @@ I wanted to run 10 tests, 5 on one iPad, 5 on another iPad to speed up throughpu
 
 The result of this need is a Python script and JSON file. I hope this will help other people who want to do the same.
 
-[My Project - pxctest distributed]https://github.com/apkatsikas/xctest_pxctest_distributed
+[My Project - pxctest distributed](https://github.com/apkatsikas/xctest_pxctest_distributed)
 
 ### Instructions
 1. install pxctest - ``brew tap plu/pxctest && brew install pxctest --HEAD``
