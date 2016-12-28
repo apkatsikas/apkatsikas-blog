@@ -1,3 +1,4 @@
-- name: project 1
-  link: "#"
-  description: "my project"
+- name: pxctest distributed
+  link: "https://github.com/apkatsikas/xctest_pxctest_distributed"
+  description: "pxctest distributed"
+  
