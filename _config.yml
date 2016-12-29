@@ -14,10 +14,7 @@ author: "Andrew Katsikas"
 g_analytics: ""
 
 # add your disqus to enable comments
-disqus_shortname:
-
-# add your disqus to enable comments
-disqus_shortname:
+disqus_shortname: apkatsikas-blog
 
 # language settings
 isolang: en
