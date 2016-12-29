@@ -2,6 +2,7 @@
 layout: post
 title:  "pxctest - distributed, headless runs in Python"
 date:   2016-12-28 00:00:00
+comments: true
 tags: ['iOS', 'pxctest', 'python', 'xctest', 'parallel', 'simultaneous', 'tests', 'test', 'testing', 'ui', 'simulators', 'swift', 'distributed']
 author: "Andrew Katsikas"
 ---
